@@ -11,11 +11,7 @@ td {
 }
 
 td {
-<<<<<<< HEAD
-  border-radius: 30px;
-=======
   border-radius: 20px;
->>>>>>> 86e50eec5c9bc259ca30042dad1f97c43f2b2abc
   border: 2px solid #73ad21;
   padding: 20px;
   width: 200px;
